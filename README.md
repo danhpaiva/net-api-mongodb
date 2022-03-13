@@ -31,10 +31,13 @@ Mongo DB Atlas has a cluster with 03 nodes for data availability.
 
 - Clone the repository
 - Debug API
-
+- Routes:
+  
 Get: https://localhost:5001/infected
 
 Post: https://localhost:5001/infected
+
+Body (Json):
 
 ~~~
 {
@@ -45,7 +48,7 @@ Post: https://localhost:5001/infected
 }
 ~~~
 
-Note: it is necessary to configure the access to the database in the appsettings (connection string).
+Note: it is necessary to configure the access to the database in the <b>appsettings</b> (connection string).
 
 <h2 id=technology>🧰 Technology</h2>
 In this project we use the following technologies:
