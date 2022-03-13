@@ -51,6 +51,7 @@ Body (Json):
 Note: it is necessary to configure the access to the database in the <i>appsettings</i> (connection string).
 
 <h2 id=technology>🧰 Technology</h2>
+
 In this project we use the following technologies:
 
 - GIT: <a href="https://git-scm.com/downloads">Download</a>
