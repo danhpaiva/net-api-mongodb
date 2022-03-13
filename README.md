@@ -23,8 +23,8 @@
 
 <h2 id=objective>📜 Objective</h2>
 
-API with Mongo DB integration.
-We used SDK 3.1 to build the API.
+API with Mongo DB integration.<br>
+We used SDK 3.1 to build the API.<br>
 Mongo DB Atlas has a cluster with 03 nodes for data availability.
 
 <h2 id=installation>☑️ Installation</h2>
