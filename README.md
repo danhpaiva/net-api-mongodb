@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="src\logo.png" width="300" alt="Web Api .Net">
+    <img src="src\logo.png" width="250" alt="Web Api .Net">
   </a>
 </p>
 
